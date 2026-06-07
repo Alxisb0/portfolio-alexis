@@ -112,8 +112,8 @@ const entrepriseItems = [
 
 const equipe = [
   { nom: 'Marc Declercq', role: 'Fondateur · Dev full-stack · Tuteur', color: '#6366f1' },
-  { nom: 'Florent', role: 'Architecture et backend (depuis 1 an et demi)', color: '#10b981' },
-  { nom: 'Emmanuel', role: 'Développement commercial', color: '#f59e0b' },
+  { nom: 'Florent', role: 'Architecture et backend', color: '#10b981' },
+  { nom: 'Emmanuel', role: 'Commercial', color: '#f59e0b' },
   { nom: 'Alexis Bollengier', role: 'Stagiaire · Interface frontend', color: '#ec4899' },
 ]
 
